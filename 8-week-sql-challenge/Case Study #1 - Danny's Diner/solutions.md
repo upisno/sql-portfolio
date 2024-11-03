@@ -2,9 +2,9 @@
 
 ## Table of Contents
 
-1. [What is the total amount each customer spent at the restaurant?](#1.-What-is-the-total-amount-each-customer-spent-at-the-restaurant)
-2. [How many days has each customer visited the restaurant?](#2.-How-many-days-has-each-customer-visited-the-restaurant?)
-3. [What was the first item from the menu purchased by each customer?](#3.-What-was-the-first-item-from-the-menu-purchased-by-each-customer?)
+1. [What is the total amount each customer spent at the restaurant?](#1-what-is-the-total-amount-each-customer-spent-at-the-restaurant)
+2. [How many days has each customer visited the restaurant?](#2-how-many-days-has-each-customer-visited-the-restaurant)
+3. [What was the first item from the menu purchased by each customer?](#3-what-was-the-first-item-from-the-menu-purchased-by-each-customer)
 
 ## 1. What is the total amount each customer spent at the restaurant?
 
