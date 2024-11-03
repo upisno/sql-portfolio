@@ -29,6 +29,8 @@ ORDER BY   customer_id;
 | C           | 36          |
 
 
+---
+
 
 ## 2. How many days has each customer visited the restaurant?
 
