@@ -10,9 +10,9 @@
 
 ```sql
 SELECT     customer_id
-         , SUM(price) AS total_spent
-FROM       sales
-           INNER JOIN menu
+           SUM(price) AS total_spent
+FROM       dannys_diner.sales
+           INNER JOIN dannys_diner.menu
 	           ON menu.product_id = sales.product_id
 GROUP BY   customer_id
 ORDER BY   customer_id;
@@ -51,7 +51,7 @@ SELECT     DISTINCT customer_id
          , product_name
 FROM       dannys_diner.sales
            INNER JOIN dannys_diner.menu
-		           ON menu.product_id = sales.product_id
+		   ON menu.product_id = sales.product_id
 WHERE      (
            customer_id
          , order_date) IN (
