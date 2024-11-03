@@ -1,10 +1,12 @@
 # 🍜 Case Study #1 - Danny's Diner
 
-## Table of Contents
+## Case Study Questions
 
 1. [What is the total amount each customer spent at the restaurant?](#1-what-is-the-total-amount-each-customer-spent-at-the-restaurant)
 2. [How many days has each customer visited the restaurant?](#2-how-many-days-has-each-customer-visited-the-restaurant)
 3. [What was the first item from the menu purchased by each customer?](#3-what-was-the-first-item-from-the-menu-purchased-by-each-customer)
+
+
 
 ## 1. What is the total amount each customer spent at the restaurant?
 
@@ -18,12 +20,14 @@ GROUP BY   customer_id
 ORDER BY   customer_id;
 ```
 
-#### Result set:
+
+## Result set:
 | customer_id | total_spent |
 | ----------- | ----------- |
 | A           | 76          |
 | B           | 74          |
 | C           | 36          |
+
 
 
 ## 2. How many days has each customer visited the restaurant?
@@ -36,7 +40,7 @@ GROUP BY   customer_id
 ORDER BY   customer_id;
 ```
 
-#### Result set:
+## Result set:
 | customer_id | days_visited |
 | ----------- | ------------ |
 | A           | 4            |
@@ -62,7 +66,7 @@ WHERE      (
 ORDER BY   customer_id;
 ```
 
-#### Result set:
+## Result set:
 | customer_id | product_name |
 | ----------- | ------------ |
 | A           | curry        |
