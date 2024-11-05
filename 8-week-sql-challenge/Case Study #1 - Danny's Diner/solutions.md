@@ -1,5 +1,5 @@
 # 🍜 Case Study #1 - Danny's Diner (Solutions)
-These are my solutions to the first case study from [8 Week SQL Challenge](https://8weeksqlchallenge.com/) created by [Danny Ma](https://www.linkedin.com/in/datawithdanny).
+These are my solutions to the first case study from the [8 Week SQL Challenge](https://8weeksqlchallenge.com/) created by [Danny Ma](https://www.linkedin.com/in/datawithdanny).
 <br>
 
 ## Case Study Questions
