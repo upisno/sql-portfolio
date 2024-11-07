@@ -22,13 +22,11 @@ The restaurant is struggling to stay afloat. Danny has collected some basic data
 ## Data
 Danny has provided three tables for this case study: `sales`, `menu`, and `members`.
 
-- `sales` records all purchases on the `customer_id`
-- including the corresponding order date and product ID, detailing when and which menu items were ordered.
+- `sales` records purchases made at the restaurant, mapping the `customer_id` to the `product_id` and `order_date` of the purchases.
 
+- `menu` ties the `product_id` to the `product_name` and the `price` of the product purchased.
 
-- `menu` table also had three fields
-
-- `members` table
+- `members` links the  
 
 </br>
 
