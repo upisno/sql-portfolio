@@ -2,6 +2,12 @@
 
 All information relating to this case study can be found [here](https://8weeksqlchallenge.com/case-study-1/).
 
+## Table of Contents
+
+1. [Overview](#overview)
+
+2. [Data](#data)
+
 ## Overview
 Driven by his love of Japanese food, Danny has opened a restaurant selling his three favourite dishes: sushi, curry, and ramen.
 
