@@ -2,7 +2,7 @@
 These are my solutions to the first case study from the [8 Week SQL Challenge](https://8weeksqlchallenge.com/) created by [Danny Ma](https://www.linkedin.com/in/datawithdanny).
 
 ## Case Study Questions
-[1. What is the total amount each customer spent at the restaurant?](#1-what-is-the-total-amount-each-customer-spent-at-the-restaurant)
+1. [What is the total amount each customer spent at the restaurant?](#1-what-is-the-total-amount-each-customer-spent-at-the-restaurant)
 
 <br>
 
