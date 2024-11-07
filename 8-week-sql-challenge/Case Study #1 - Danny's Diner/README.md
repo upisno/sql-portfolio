@@ -50,6 +50,14 @@ Danny has provided three tables for this case study: `sales`, `menu`, and `membe
 
 </br>
 
+**Table 3. members**
+| customer_id | join_date  |
+|-------------|------------|
+| A           | 2021-01-07 |
+| B           | 2021-01-09 |
+
+</br>
+
 ## Entity Relationship Diagram
 
 ![ERD](Danny's%20Diner.svg)
