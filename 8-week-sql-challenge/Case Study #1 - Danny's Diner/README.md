@@ -1,13 +1,59 @@
 # 🍜 Case Study #1 - Danny's Diner
 
+All information relating to this case study can be found [here](https://8weeksqlchallenge.com/case-study-1/).
+
 ## Overview
 Driven by his love of Japanese food, Danny has opened a restaurant selling his three favourite dishes: sushi, curry, and ramen.
 
-Danny's Diner is struggling to stay afloat. The restaurant has gathered some basic data from its initial months of operation, but it requires assistance in using the data to aid the business.
+The restaurant is struggling to stay afloat. Danny has collected some basic data from the initial months of operation, but he needs help with using the data to aid the business.
 
+</br>
 
-### Entity Relationship Diagram
+## Data
+Danny has provided three tables for this case study: `sales`, `menu`, and `members`.
+
+- `sales` has three fields (`customer_id`, `order_date`, and `product_id`), which track what item each customer orders and on what date.
+
+- `menu` table also had three fields
+
+- `members` table
+
+</br>
+
+**Table 1. sales**
+| customer_id | order_date | product_id |
+|-------------|------------|------------|
+| A           | 2021-01-01 | 1          |
+| A           | 2021-01-01 | 2          |
+| A           | 2021-01-07 | 2          |
+| A           | 2021-01-10 | 3          |
+| A           | 2021-01-11 | 3          |
+| A           | 2021-01-11 | 3          |
+| B           | 2021-01-01 | 2          |
+| B           | 2021-01-02 | 2          |
+| B           | 2021-01-04 | 1          |
+| B           | 2021-01-11 | 1          |
+| B           | 2021-01-16 | 3          |
+| B           | 2021-02-01 | 3          |
+| C           | 2021-01-01 | 3          |
+| C           | 2021-01-01 | 3          |
+| C           | 2021-01-07 | 3          |
+
+</br>
+
+**Table 2. menu**
+| product_id | product_name | price |
+|------------|--------------|-------|
+| 1          | sushi        | 10    |
+| 2          | curry        | 15    |
+| 3          | ramen        | 12    |
+
+</br>
+
+## Entity Relationship Diagram
 
 ![ERD](Danny's%20Diner.svg)
+
+</br>
   
 
