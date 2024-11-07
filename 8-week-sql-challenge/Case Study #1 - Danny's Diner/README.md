@@ -7,7 +7,7 @@ Danny's Diner is struggling to stay afloat. The restaurant has gathered some bas
 
 
 ### Entity Relationship Diagram
-  
-  ![Boxing Match Image](Danny's%20Diner.svg)
+
+![ERD](Danny's%20Diner.svg)
   
 
