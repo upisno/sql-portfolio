@@ -22,11 +22,11 @@ The restaurant is struggling to stay afloat. Danny has collected some basic data
 ## Data
 Danny has provided three tables for this case study: `sales`, `menu`, and `members`.
 
-- `sales` records purchases made at the restaurant, mapping the `customer_id` to the `product_id` and `order_date` of the purchases.
+- `sales` has three fields (`customer_id`, `product_id`, `order_date`) and tracks the items each customer purchased and on what date they made the purchases.
 
-- `menu` ties the `product_id` to the `product_name` and the `price` of the product purchased.
+- `menu` also has three fields (`product_id`, `product_name`, `price`), linking the product to its name and price.
 
-- `members` links the  
+- `members` has two fields (`customer_id`, `join_date`), recording when each customer (where applicable) joined the beta version of the Danny’s Diner loyalty program.
 
 </br>
 
