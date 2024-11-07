@@ -8,6 +8,10 @@ All information relating to this case study can be found [here](https://8weeksql
 
 2. [Data](#data)
 
+3. [Entity Relationship Diagram](#entity-relationship-diagram)
+
+</br>
+
 ## Overview
 Driven by his love of Japanese food, Danny has opened a restaurant selling his three favourite dishes: sushi, curry, and ramen.
 
