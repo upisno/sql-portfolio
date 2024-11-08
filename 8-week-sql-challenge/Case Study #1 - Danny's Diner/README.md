@@ -6,9 +6,11 @@ All information relating to this case study can be found [here](https://8weeksql
 
 1. [Overview](#overview)
 
-2. [Data](#data)
+2. [Aims and Objectives](#overview)
 
-3. [Entity Relationship Diagram](#entity-relationship-diagram)
+3. [Data](#data)
+
+4. [Entity Relationship Diagram](#entity-relationship-diagram)
 
 </br>
 
@@ -16,7 +18,15 @@ All information relating to this case study can be found [here](https://8weeksql
 Driven by his love of Japanese food, Danny has opened a restaurant selling his three favourite dishes: sushi, curry, and ramen.
 
 The restaurant is struggling to stay afloat. Danny has collected some basic data from the initial months of operation, but he needs help with using the data to aid the business.
+</br>
+</br>
 
+## Aims and Objectives
+
+Danny wants to use this data to understand more about customer visiting patterns and expenditure, as well as what the most popular dishes on the menu are.
+
+This will help Danny to decide whether or not to expand the restaurant's loyalty program, whilst also providing his team with the ability to inspect the data without needing to use SQL.
+</br>
 </br>
 
 ## Data
