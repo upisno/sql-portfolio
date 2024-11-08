@@ -1,8 +1,9 @@
-# ⌛ 8 Week SQL Challenge
+# 🗓️ 8 Week SQL Challenge
 
 This repository provides my solutions to the [8 Week SQL Challenge](https://8weeksqlchallenge.com/) created by [Danny Ma](https://www.linkedin.com/in/datawithdanny). 
 
-The aim of this repository is to enhance my SQL query-building skills and contribute to a broader portfolio that highlights my data analysis and programming expertise.
+The aim of this repository is to enhance my SQL query-building skills and to contribute to a broader portfolio that highlights my data analysis and programming expertise.
+<br>
 <br>
 
 ## Table of Contents
