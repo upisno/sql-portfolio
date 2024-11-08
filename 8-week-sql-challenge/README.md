@@ -2,7 +2,7 @@
 
 This repository provides my solutions to the [8 Week SQL Challenge](https://8weeksqlchallenge.com/) created by [Danny Ma](https://www.linkedin.com/in/datawithdanny). 
 
-The purpose of this repository is to improve my SQL query-building skills and contribute to an overarching portfolio that showcases my data and programming expertise.
+The aim of this repository is to enhance my SQL query-building skills and contribute to a broader portfolio that highlights my data analysis and programming expertise.
 <br>
 
 ## Table of Contents
@@ -31,7 +31,8 @@ Each case study link takes you to a separate Markdown file with detailed SQL sol
 <br>
 
 ## Software and Tools
-All queries were executed using PostgreSQL and pgAdmin 4.
+- All queries were executed using PostgreSQL and pgAdmin 4.
+- Entity Relationship Diagrams were generated using [dbdiagram.io](https://dbdiagram.io/home)
 <br>
 <br>
 
