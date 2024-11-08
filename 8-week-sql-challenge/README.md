@@ -6,13 +6,13 @@ The purpose of this repository is to improve my SQL query-building skills and co
 <br>
 
 ## Table of Contents
-[1. Introduction](introduction)
+1. [Introduction](introduction)
 
-[2. Case Studies](case-studies)
+2. [Case Studies](case-studies)
 
-[3. Software and Tools](software-and-tools)
+3. [Software and Tools](software-and-tools)
 
-[4. Acknowledgements](acknowledgements)
+4. [Acknowledgements](acknowledgements)
 <br>
 <br>
 <br>
