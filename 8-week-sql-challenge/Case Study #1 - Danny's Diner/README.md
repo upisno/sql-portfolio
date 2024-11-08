@@ -15,9 +15,9 @@ All information relating to this case study can be found [here](https://8weeksql
 </br>
 
 ## Overview
-Driven by his love of Japanese food, Danny has opened a restaurant selling his three favourite dishes: sushi, curry, and ramen.
+Driven by his love of Japanese food, Danny established Danny's Diner, a restaurant selling his three favourite dishes: sushi, curry, and ramen.
 
-The restaurant is struggling to stay afloat. Danny has collected some basic data from the initial months of operation, but he needs help with using the data to aid the business.
+Danny's Diner is experiencing financial difficulties. Having collected some basic data from the initial months in operation, Danny needs help analysing the data to aid the business.
 </br>
 </br>
 
