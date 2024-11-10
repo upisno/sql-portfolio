@@ -16,12 +16,9 @@ The aim of this repository is to enhance my SQL query-building skills and to con
 4. [Acknowledgements](acknowledgements)
 <br>
 <br>
-<br>
 
 ## Introduction
 The 8 Week SQL Challenge is a...
-
-
 <br>
 <br>
 
